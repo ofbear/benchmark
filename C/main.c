@@ -5,7 +5,6 @@ int fib(int n) {
 	return fib(n - 2) + fib(n - 1);
 }
 
-int main(int argc, char *argv[]) {
-	printf("%d\n", fib(38));
-	return 0;
+int main() {
+	printf("%d", fib(38));
 }
