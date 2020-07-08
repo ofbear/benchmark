@@ -5,3 +5,4 @@ Benchmark repository for various languages
 | name | size  | real  | user  | sys   |
 | ---- | ----- | ----- | ----- | ----- |
 | C    | 12776 | 0.300 | 0.296 | 0.001 |
+| V    | 39088169 | 0.265 | 0.263 | 0.000 |
