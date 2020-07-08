@@ -1,0 +1,1 @@
+v -prod -o main main.v; time ./main
